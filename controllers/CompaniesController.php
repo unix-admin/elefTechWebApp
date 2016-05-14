@@ -34,7 +34,7 @@ class CompaniesController extends Controller
      */
     public function actionIndex()
     {
-        return $this->redirect('site/index');
+        return $this->redirect('/');
     }
 
     /**
