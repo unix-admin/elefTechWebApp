@@ -54,4 +54,4 @@ CONFIGURATION
 Command
 php yii migrate/up 
 ~~~
-Or execute sql script "database.sql"
+### Or execute sql script "database.sql"
